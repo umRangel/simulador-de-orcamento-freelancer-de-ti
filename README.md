@@ -48,12 +48,6 @@ Uso de `addEventListener` para capturar ações do usuário (cliques).
 
 ### ✔ Arrow Functions
 
-Aplicação de funções no formato:
-
-```js
-() => { }
-```
-
 ### ✔ Manipulação do DOM
 
 * Seleção de elementos (`querySelector`, `getElementById`)
@@ -62,14 +56,6 @@ Aplicação de funções no formato:
 
 ---
 
-## 💰 Precificação dos Serviços
-
-Os valores foram definidos com base em referências de mercado, considerando:
-
-* Complexidade do serviço
-* Tempo estimado de execução
-* Média de plataformas freelancer
-
 ### Serviços disponíveis:
 
 * Desenvolvimento de Sites → R$ 150,00
@@ -77,44 +63,6 @@ Os valores foram definidos com base em referências de mercado, considerando:
 * Banco de Dados → R$ 200,00
 * Integração de API → R$ 120,00
 * Manutenção Mensal → R$ 80,00
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-📁 projeto/
- ├── index.html
- ├── style.css
- ├── script.js
- └── imagens/
-```
-
----
-
-## ▶️ Como Executar
-
-1. Baixe ou clone o repositório
-2. Abra o arquivo `index.html` no navegador
-3. Interaja com os serviços disponíveis
-
----
-
-## ⚠️ Limitações do Projeto
-
-* Não há persistência de dados (estado não é salvo)
-* Não é possível remover itens individualmente
-* Não há controle de quantidade de serviços
-
----
-
-## 🚀 Possíveis Melhorias
-
-* Implementação de remoção de itens
-* Controle de quantidade
-* Armazenamento em LocalStorage
-* Integração com backend
-* Refatoração para framework (React, Vue)
 
 ---
 
