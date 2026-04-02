@@ -11,18 +11,18 @@ O objetivo é simular um cenário real de contratação de serviços freelancer,
 
 ## 🎯 Objetivo
 
-* Aplicar conceitos de JavaScript para manipulação do DOM
+* Aplicar JavaScript para manipulação do DOM
 * Simular precificação de serviços de TI
-* Criar uma interface interativa para seleção de serviços
-* Consolidar conhecimentos de HTML, CSS e JavaScript
+* Criar uma interface para seleção de serviços
+* Aplicando HTML, CSS e JavaScript
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* HTML5 → estrutura da aplicação
-* CSS3 → estilização e layout responsivo
-* JavaScript (Vanilla JS) → lógica e interatividade
+* HTML5 → estrutura da página
+* CSS3 → estilização
+* JavaScript → lógica
 
 ---
 
