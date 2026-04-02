@@ -20,19 +20,20 @@ O objetivo é simular um cenário real de contratação de serviços freelancer,
 
 ## 🛠️ Tecnologias Utilizadas
 
-* HTML5 → estrutura da página
-* CSS3 → estilização
-* JavaScript → lógica
+* HTML5 → Estrutura da página
+* CSS3 → Estilização
+* JavaScript → Lógica
+* ChatGPT → Geração de imagem
 
 ---
 
 ## ⚙️ Funcionalidades
 
-* Exibição de serviços em formato de cards
-* Adição de serviços ao pedido via clique
-* Atualização dinâmica do valor total
+* Exibição de serviços em formato de cards.
+* Adição de serviços.
+* Atualização dinâmica do valor total.
 * Conversão de valores utilizando `parseFloat()`
-* Finalização de pedido com limpeza da lista
+* Finalização de pedido com limpeza da lista.
 
 ---
 
