@@ -47,6 +47,9 @@ Utilização de `let` e `const` para armazenamento de dados, como o total do ped
 Uso de `addEventListener` para capturar ações do usuário (cliques).
 
 ### ✔ Arrow Functions
+Aplicação de funções no formato:
+
+() => { }
 
 ### ✔ Manipulação do DOM
 
